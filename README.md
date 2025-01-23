@@ -1,5 +1,7 @@
 # Atm-Cash-Distribution
 
+![Image](https://github.com/user-attachments/assets/705eb747-22bb-4d8a-8141-e5f5d058129f)
+
 
 ----
 A bank wants to deliver cash to ATMs across the city via truck. The program should create a map of nodes and edges that represent ATMs and the paths between them. The goal is to design and implement an algorithm that finds the shortest path to fill the machines.
