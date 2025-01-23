@@ -32,3 +32,5 @@ Finally, display the average time taken to fill each machine (total time taken d
 ### Create an understandable and beautiful graphical user interface
 ### Display reports (statistics) They should be readable and understandable
 ### Calculate and explain the time complexity of the algorithms used
+
+#### Time complexity: (E(log)V+V).n+O^2(n)
